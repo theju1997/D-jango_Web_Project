@@ -1,1 +1,1 @@
-Project demo link https://thejusweety.pythonanywhere.com/
+Project link__https://thejusweety.pythonanywhere.com/
